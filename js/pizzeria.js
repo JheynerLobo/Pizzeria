@@ -218,41 +218,6 @@ adicion+="<label>"+adicional[i].nombre_ingrediente+"</label></div>";
 adicion+="</div>";
 return adicion;
 }
-/*
-function seleccionSabores(numero) {
-  var pizza=new Array(numero);  
-  var tamano=leerTmUrl(numero);
-
-for (var i =0; i<numero; i++) {
-var sabores=new Array(2);
-var adic=new Array(2);
-var adici=new Array(2);
-var a=new Array(2);
-
-var l = document.getElementById('select'+(i+1));
-var index =l.selectedIndex;
-var oS = l.options[index];
-var valor = oS.value;
-adic[0]=valor;
-adic[1]=leerCheckbox(i+1,0);
-sabores[0]=adic;
-
-
-var ll = document.getElementById('select2'+(i+1));
-var index =ll.selectedIndex;
-var oS2 = ll.options[index];
-var valor2 = oS2.value;
-adici[0]=valor2;
-adici[1]=leerCheckbox(i+1,1);
-sabores[1]=adici;
-a[0]=sabores;
-a[1]=tamano[i];
-pizza[i]=a;
-}
-
-console.log(pizza);
-return pizza;
-}*/
 
 function seleccionSabores(numero) {
   var pizza="";  
@@ -279,7 +244,7 @@ var index =ll.selectedIndex;
 var oS2 = ll.options[index];
 var valor2 = oS2.value;
 adici="Sabor"+(i+1)+1+"="+valor2+"&";
-adici+="adicio"+(i+1)+1+"="+leerCheckbox(i+1,0)+"&";
+adici+="adicio"+(i+1)+1+"="+leerCheckbox(i+1,1)+"&";
 sabores+=adici;
 sabores+="tam"+(i+1)+"="+tamano[i];
 pizza+=sabores;
@@ -333,7 +298,7 @@ var factura=0;
        for(var j=0;j<ma.length;j++){
        	if(ma[j]=='true'){tabla+="\n<tr>"+
        	"\n<td>Adicional-"+sab1+"-"+datos.adicional[j].nombre_ingrediente+"</td>";
-         valor+=datos.adicional[j].valor;
+         valor=datos.adicional[j].valor;
          factura+=valor;
        	tabla+="\n<td>"+"$"+valor+"</td>";
        tabla+="</tr>";
