@@ -34,6 +34,11 @@
   - HTML5
   - JavaScript
 
+    
+Usted puede ver el siguiente marco conceptual sobre introducción al JSON:
+
+  - [Documento explicativo de JSON](https://www.json.org/json-es.html)
+
 Usted puede ver el siguiente marco conceptual sobre la API fetch:
 
   - [Vídeo explicativo lectura con fetch()](https://www.youtube.com/watch?v=xqBvtvXh9Z4)
