@@ -65,12 +65,12 @@ El software es necesario para ver la interacción por consola y depuración del 
 ***
 ### Demo
 
-Para ver el demo de la aplicación puede dirigirse a: [Pizzería_js](http://ufps30.madarme.co/json_pizza/).
+Para ver el demo de la aplicación puede dirigirse a: [Pizzería](http://ufps21.madarme.co/Pizzeria/).
 
 ***
 ### Autor(es)
-Proyecto desarrollado por [Marco Adarme] (<madarme@ufps.edu.co>).
-
+Proyecto desarrollado por [Jheyner Lobo] (<jheyneralexanderld@ufps.edu.co>).
+Proyecto desarrollado por [Matilde Arévalo] (<matildealexandraal@ufps.edu.co>).
 
 ***
 ### Institución Académica   
