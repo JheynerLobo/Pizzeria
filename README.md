@@ -70,9 +70,9 @@ Para ver el demo de la aplicación puede dirigirse a: [Pizzería](http://ufps21.
 
 ***
 ### Autor(es)
-Proyecto desarrollado por [Jheyner Lobo] (<jheyneralexanderld@ufps.edu.co>).
+Proyecto desarrollado por Jheyner Lobo (<jheyneralexanderld@ufps.edu.co>).
 
-Proyecto desarrollado por [Matilde Arévalo] (<matildealexandraal@ufps.edu.co>).
+Proyecto desarrollado por Matilde Arévalo (<matildealexandraal@ufps.edu.co>).
 
 ***
 ### Institución Académica   
