@@ -10,7 +10,7 @@
 4. [IDE](#ide)
 5. [Instalación](#instalación)
 6. [Demo](#demo)
-7. [Autor(es)](#autores)
+7. [Autores](#autores)
 8. [Institución Académica](#institución-académica)
 ***
 
