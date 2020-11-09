@@ -1,7 +1,7 @@
 ![Pizzería](./images/cabecera.png)
 # Título del proyecto:
 
-#### Ejemplo de Lectura de datos JSON 
+#### Pizzería
 ***
 ## Índice
 1. [Características](#caracter-sticas-)
@@ -18,7 +18,7 @@
 
   - Proyecto con lectura de datos json a través de la API fecth JavaScript
   - Carga dinámica del JSON 
-  - Archivo json de ejemplo: [ver](https://raw.githubusercontent.com/madarme/persistencia/main/pizza.json)
+  - Archivo json con información de la pizzería: [ver](https://raw.githubusercontent.com/madarme/persistencia/main/pizza.json)
 ***
   #### Contenido del proyecto
   - [index.html](https://gitlab.com/programacion-web---i-sem-2019/lectura-json-ii-2020-pizzeria/-/blob/master/index.html): Archivo principal de invocación a la lectura de JSON
