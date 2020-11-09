@@ -19,12 +19,13 @@
   - Proyecto con lectura de datos json a través de la API fecth JavaScript
   - Carga dinámica del JSON 
   - Archivo json con información de la pizzería: [ver](https://raw.githubusercontent.com/madarme/persistencia/main/pizza.json)
+  - Utilización de Bootstrap como herramienta de diseño de la página: [ver](https://getbootstrap.com/)
 ***
   #### Contenido del proyecto
   - [index.html](https://gitlab.com/Wolf21/pizzeria/-/blob/master/index.html): Archivo principal de invocación a la lectura de JSON
   - [opciones.html](https://gitlab.com/Wolf21/pizzeria/-/blob/master/html/opciones.html): Archivo con el proceso de selección de las propiedades de las pizzas
-  - [factura.html](https://gitlab.com/Wolf21/pizzeria/-/blob/master/html/factura.html): Archivo con el proceso de impresión de factura
-  - [proceso.js](https://gitlab.com/Wolf21/pizzeria/-/blob/master/js/pizzeria.js): Archivo JS con el proceso de lectura del JSON y sus funciones adicionales para la impresión de resultados
+  - [factura.html](https://gitlab.com/Wolf21/pizzeria/-/blob/master/html/factura.html): Archivo con el proceso de impresión de la factura de los pedidos
+  - [proceso.js](https://gitlab.com/Wolf21/pizzeria/-/blob/master/js/pizzeria.js): Archivo JS con el proceso de lectura del JSON y las funciones adicionales para la impresión de resultados
   
 
 ***
@@ -35,7 +36,7 @@
 
 Usted puede ver el siguiente marco conceptual sobre la API fetch:
 
-  - [Vídeo explicativo lectura con fetch()](https://www.youtube.com/watch?v=DP7Hkr2ss_I)
+  - [Vídeo explicativo lectura con fetch()](https://www.youtube.com/watch?v=xqBvtvXh9Z4)
   - [Gúia de Mozzilla JSON](https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/JSON)
   
   ***
