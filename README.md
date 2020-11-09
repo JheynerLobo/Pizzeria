@@ -48,7 +48,7 @@ Usted puede ver el siguiente marco conceptual sobre la API fetch:
 #### IDE
 
 - El proyecto se desarrolla usando sublime text 3 
-- Visor de JSON -(http://jsonviewer.stack.hu/)
+- Visor de JSON (http://jsonviewer.stack.hu/)
 
 ***
 ### Instalación
