@@ -45,7 +45,7 @@ Usted puede ver el siguiente marco conceptual sobre la API fetch:
   - [Vídeo explicativo lectura con fetch()](https://www.youtube.com/watch?v=xqBvtvXh9Z4)
   - [Gúia de Mozzilla JSON](https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/JSON)
   
-Utilización de Bootstrap como herramienta de diseño de la página.
+Usted puede ver el siguiente marco conceptual sobre Bootstrap:
 
   - [Biblioteca multiplataforma de Bootstrap](https://getbootstrap.com/)
 
@@ -74,7 +74,7 @@ El software es necesario para ver la interacción por consola y depuración del 
 Para ver el demo de la aplicación puede dirigirse a: [Pizzería](http://ufps21.madarme.co/Pizzeria/).
 
 ***
-### Autor(es)
+### Autores
 Proyecto desarrollado por: Jheyner Lobo (<jheyneralexanderld@ufps.edu.co>).
 
 Proyecto desarrollado por: Matilde Arévalo (<matildealexandraal@ufps.edu.co>).
