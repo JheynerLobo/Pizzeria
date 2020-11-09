@@ -1,9 +1,9 @@
 ![Pizzería](./images/cabecera.png)
 # Título del proyecto:
 
-# Pizzería
+## Pizzería
 ***
-## Índice
+### Índice
 1. [Características](#caracter-sticas-)
 2. [Contenido del proyecto](#contenido-del-proyecto)
 3. [Tecnologías](#tecnologías)
