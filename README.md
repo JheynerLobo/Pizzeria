@@ -53,7 +53,8 @@ Usted puede ver el siguiente marco conceptual sobre la API fetch:
 ***
 ### Instalación
 
-Firefox Devoloper Edition-> [descargar](https://www.mozilla.org/es-ES/firefox/developer/).
+Firefox Devoloper Edition ➔ [descargar](https://www.mozilla.org/es-ES/firefox/developer/).
+
 El software es necesario para ver la interacción por consola y depuración del código JS
 
 
