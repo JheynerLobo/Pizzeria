@@ -25,7 +25,7 @@
   - [index.html](https://gitlab.com/Wolf21/pizzeria/-/blob/master/index.html): Archivo principal de invocación a la lectura de JSON
   - [opciones.html](https://gitlab.com/Wolf21/pizzeria/-/blob/master/html/opciones.html): Archivo con el proceso de selección de las propiedades de las pizzas
   - [factura.html](https://gitlab.com/Wolf21/pizzeria/-/blob/master/html/factura.html): Archivo con el proceso de impresión de la factura de los pedidos
-  - [proceso.js](https://gitlab.com/Wolf21/pizzeria/-/blob/master/js/pizzeria.js): Archivo JS con el proceso de lectura del JSON y las funciones adicionales para la impresión de resultados
+  - [pizzeria.js](https://gitlab.com/Wolf21/pizzeria/-/blob/master/js/pizzeria.js): Archivo JS con el proceso de lectura del JSON y las funciones adicionales para la impresión de resultados
   
 
 ***
