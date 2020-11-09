@@ -70,16 +70,15 @@ Para ver el demo de la aplicación puede dirigirse a: [Pizzería](http://ufps21.
 
 ***
 ### Autor(es)
-Proyecto desarrollado por Jheyner Lobo (<jheyneralexanderld@ufps.edu.co>).
+Proyecto desarrollado por: Jheyner Lobo (<jheyneralexanderld@ufps.edu.co>).
 
-Proyecto desarrollado por Matilde Arévalo (<matildealexandraal@ufps.edu.co>).
+Proyecto desarrollado por: Matilde Arévalo (<matildealexandraal@ufps.edu.co>).
 
 ***
 ### Institución Académica   
 Proyecto desarrollado en la Materia programación web del  [Programa de Ingeniería de Sistemas] de la [Universidad Francisco de Paula Santander]
 
 
-   [Marco Adarme]: <http://madarme.co>
    [Programa de Ingeniería de Sistemas]:<https://ingsistemas.cloud.ufps.edu.co/>
    [Universidad Francisco de Paula Santander]:<https://ww2.ufps.edu.co/>
    
